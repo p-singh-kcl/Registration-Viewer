@@ -24,12 +24,11 @@ Designed for **neuroimaging registration QC** (e.g. T1w vs T1c, pre/post contras
 ---
 
 ## Screenshots
-
-<img width="1920" height="1080" alt="Screenshot (661)" src="https://github.com/user-attachments/assets/b0d862d8-368b-46b5-b91c-b6ca0833dc90" />
-<img width="1920" height="1080" alt="Screenshot (662)" src="https://github.com/user-attachments/assets/1b7d9015-c554-48f2-87f7-a9c520c4f5a3" />
-<img width="1920" height="1080" alt="Screenshot (663)" src="https://github.com/user-attachments/assets/86ed495d-5974-47d6-bd99-03ea2ad2dd0c" />
-<img width="1920" height="1080" alt="Screenshot (675)" src="https://github.com/user-attachments/assets/aed3ef8e-8d38-4444-8766-58ee4a6428fb" />
-<img width="1920" height="1080" alt="Screenshot (676)" src="https://github.com/user-attachments/assets/436fc8c9-1c8f-4751-96ba-b7c35a02cb1b" />
+<img width="1920" height="1019" alt="Screenshot (661)" src="https://github.com/user-attachments/assets/15282832-0dc6-42d3-aa04-d7a9f1e9cb59" />
+<img width="1920" height="1013" alt="Screenshot (662)" src="https://github.com/user-attachments/assets/9e732b17-c5eb-48f1-b75c-924df3edf8cb" />
+<img width="1920" height="1020" alt="Screenshot (663)" src="https://github.com/user-attachments/assets/7f503f83-b946-41e5-824e-fd0a08bc6fc9" />
+<img width="1920" height="1020" alt="Screenshot (675)" src="https://github.com/user-attachments/assets/c4e3a40c-d9a0-4aa5-b4ed-ee3e012c4955" />
+<img width="1920" height="1017" alt="Screenshot (676)" src="https://github.com/user-attachments/assets/8c30b451-15b4-4d6e-9a2d-06291e9fd0c6" />
 
 ---
 
