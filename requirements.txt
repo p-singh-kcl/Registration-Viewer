@@ -1,0 +1,8 @@
+# Core dependencies for Registration Viewer.
+# Versions are lower bounds — newer releases on the same major line should also work.
+
+nibabel>=5.0
+numpy>=1.22
+matplotlib>=3.6
+scipy>=1.9
+scikit-image>=0.20

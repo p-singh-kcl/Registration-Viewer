@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Registration Viewer: an open-source NIfTI registration-quality viewer"
+abstract: >
+  A matplotlib-based viewer for comparing two co-registered 3D NIfTI volumes
+  side-by-side, with quantitative similarity metrics (cosine similarity, SSIM,
+  edge-based structural difference) and optional overlays for ground-truth
+  labels and model predictions.
+authors:
+  - family-names: Singh
+    given-names: Pushpendra
+type: software
+license: MIT
+keywords:
+  - neuroimaging
+  - registration
+  - quality-control
+  - NIfTI
+  - MRI
+  - segmentation
+  - visualization
+  - SSIM
+  - cosine-similarity
+version: "1.0.0"
+date-released: "2026-05-19"
