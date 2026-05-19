@@ -241,7 +241,7 @@ If this tool helps your work, please cite it via the metadata in [`CITATION.cff`
   author  = {Singh, Pushpendra},
   title   = {Registration Viewer: an open-source NIfTI registration-quality viewer},
   year    = {2026},
-  url     = {https://github.com/<your-username>/Registration-Viewer}
+  url     = {https://github.com/p-singh-kcl/Registration-Viewer/}
 }
 ```
 
