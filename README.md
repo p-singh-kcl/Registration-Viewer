@@ -49,7 +49,7 @@ Designed for **neuroimaging registration QC** (e.g. T1w vs T1c, pre/post contras
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/Registration-Viewer.git
+git clone https://github.com/p-singh-kcl/Registration-Viewer.git
 cd Registration-Viewer
 
 # 2. (Recommended) Create a virtual environment
