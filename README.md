@@ -25,13 +25,11 @@ Designed for **neuroimaging registration QC** (e.g. T1w vs T1c, pre/post contras
 
 ## Screenshots
 
-> Add screenshots to a `docs/` folder and reference them here when ready.
->
-> Suggested captures:
-> - `docs/intensity_window.png` — three-panel intensity comparison.
-> - `docs/zoom_window.png` — click-to-zoom panel.
-> - `docs/disagreement_window.png` — label disagreement view.
-> - `docs/file_picker.png` — Tkinter launcher.
+<img width="1920" height="1080" alt="Screenshot (661)" src="https://github.com/user-attachments/assets/b0d862d8-368b-46b5-b91c-b6ca0833dc90" />
+<img width="1920" height="1080" alt="Screenshot (662)" src="https://github.com/user-attachments/assets/1b7d9015-c554-48f2-87f7-a9c520c4f5a3" />
+<img width="1920" height="1080" alt="Screenshot (663)" src="https://github.com/user-attachments/assets/86ed495d-5974-47d6-bd99-03ea2ad2dd0c" />
+<img width="1920" height="1080" alt="Screenshot (675)" src="https://github.com/user-attachments/assets/aed3ef8e-8d38-4444-8766-58ee4a6428fb" />
+<img width="1920" height="1080" alt="Screenshot (676)" src="https://github.com/user-attachments/assets/436fc8c9-1c8f-4751-96ba-b7c35a02cb1b" />
 
 ---
 
