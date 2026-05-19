@@ -92,20 +92,7 @@ Once T1w and T1c are selected, the **Launch Viewer** button activates.
 
 ```bash
 # Minimum: two scans
-python registration_viewer.py path/to/scan_a.nii.gz path/to/scan_b.nii.gz
-
-# With ground-truth labels
-python registration_viewer.py scan_a.nii.gz scan_b.nii.gz \
-    --labels_t1w labels_a.nii.gz \
-    --labels_t1c labels_b.nii.gz
-
-# Full: labels + predictions
-python registration_viewer.py scan_a.nii.gz scan_b.nii.gz \
-    --labels_t1w labels_a.nii.gz --labels_t1c labels_b.nii.gz \
-    --pred_t1w pred_a.nii.gz   --pred_t1c pred_b.nii.gz
-
-# Pick starting axis / slice
-python registration_viewer.py a.nii.gz b.nii.gz --axis coronal --slice 90
+python registration_viewer.py
 ```
 
 CLI options:
